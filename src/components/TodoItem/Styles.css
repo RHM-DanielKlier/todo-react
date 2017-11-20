@@ -1,0 +1,15 @@
+.todo-item {
+    padding: 2em 3em;
+    text-align: left;
+}
+
+.todo-item > span {
+    margin-left: 1em;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.todo-item > input[type="checkbox"] {
+    display: inline-block;
+    vertical-align: middle;
+}

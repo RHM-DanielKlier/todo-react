@@ -1,0 +1,15 @@
+.todo-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.todo-list > li {
+    border-collapse: collapse;
+    border: 1px solid lightgray;
+    border-bottom-width: 0;
+}
+
+.todo-list > li:last-of-type {
+    border-bottom-width: 1px;
+}
