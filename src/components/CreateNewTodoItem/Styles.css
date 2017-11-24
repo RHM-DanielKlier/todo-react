@@ -1,0 +1,10 @@
+.create-new-todo {
+    padding: 2em 3em;
+    text-align: left;
+}
+
+.create-new-todo input {
+    padding: 0.5em 1em;
+    margin-right: 1em;
+}
+
